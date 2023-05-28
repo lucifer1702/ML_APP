@@ -1,0 +1,12 @@
+eli5
+lime
+neattext
+pandas
+numpy 
+spacy
+seaborn 
+altair
+streamlit
+scikit-learn
+keras
+tensorflow
