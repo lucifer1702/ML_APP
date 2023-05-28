@@ -2,7 +2,7 @@
 
 This is a sentiment analyser app made with streamlit
 
-The app will contain 3 directories :
+The app will contain 2 directories :
 
 1. App folder which contains a models folder which holds the pickled model
 2. The notebook folder will contain  the notebook which will be used for the training of the ML model and also a dataset folder which has datasets in it.
