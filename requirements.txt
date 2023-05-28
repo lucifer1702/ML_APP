@@ -8,3 +8,4 @@ seaborn
 altair
 streamlit
 scikit-learn
+watchdog
