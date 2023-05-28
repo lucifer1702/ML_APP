@@ -8,5 +8,3 @@ seaborn
 altair
 streamlit
 scikit-learn
-keras
-tensorflow
