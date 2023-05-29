@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 import joblib
 
-pipe=joblib.load(open("../ML_APP/App/models/piped_file_emotions.pkl",'rb'))
+pipe=joblib.load(open("App/models/piped_file_emotions.pkl",'rb'))
 
 def predict_results(docs):
     result=pipe.predict([docs])
