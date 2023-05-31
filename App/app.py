@@ -4,11 +4,11 @@ import pandas as pd
 import joblib
 
 # import keras
-from keras.utils import pad_sequences
+from keras.preprocessing.sequence import pad_sequences
+
 from keras.preprocessing.text import Tokenizer
 from keras.models import load_model
-from sklearn.ensemble import VotingClassifier
-import plotly.figure_factory as ff
+
 
 model1=load_model('App/models/model_lstm.h5')
 model2=joblib.load('App/models/piped_file_emotions.pkl')
