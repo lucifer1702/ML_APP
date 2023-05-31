@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 import joblib
 
-import keras
+# import keras
 from keras.utils import pad_sequences
 from keras.preprocessing.text import Tokenizer
 from keras.models import load_model
