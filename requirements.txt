@@ -10,3 +10,4 @@ streamlit
 scikit-learn
 watchdog
 plotly
+keras
