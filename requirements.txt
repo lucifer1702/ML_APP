@@ -9,3 +9,4 @@ altair
 streamlit
 scikit-learn
 watchdog
+plotly
